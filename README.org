@@ -4,6 +4,6 @@ Simple API doc generator
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/avodonosov/package-doc-dump.git |
-| commit  | a3caba6
+| commit  | a3caba6                                                |
 | systems | package-doc-dump                                       |
 |---------+--------------------------------------------------------|
