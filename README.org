@@ -7,4 +7,4 @@ Simple API doc generator
 | commit  | a3caba6                                                |
 | systems | package-doc-dump                                       |
 |---------+--------------------------------------------------------|
- 
+  
